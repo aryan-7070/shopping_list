@@ -1,3 +1,3 @@
 # Shopping List
 
-Simple shoppping list app from my Modern JS from The Beginning course.
+Simple shopping list Project for adding deleting and updating items.
