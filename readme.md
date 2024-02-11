@@ -1,3 +1,3 @@
 # Shopping List
 
-Simple shopping list Project for adding deleting and updating items.
+Simple shopping list Project for adding, deleting, filtering and updating items.
